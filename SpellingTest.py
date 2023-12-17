@@ -12,13 +12,9 @@ directory = os.getcwd()
 dirImages = directory + '\images'
 dirSounds = directory + '\sounds'
 
-words = ['did', 'dip', 'sad', 'nod', 'mad', 
-         'to', 'up', 'do', 'us', 'got', 'dad', 'said', 'can', 'man', 'cat', 'not', 'on', 'in', 
-         'fin', 'at', 'tap', 'it', 'if', 'sit', 'pit', 'tip', 
-         'fat', 'mat', 'cat', 'map', 'is', 'his', 
-         'am', 'as', 'an', 'man',  
-         'I', 'a', 'its', 'good', 
-         'and', 'the', 'me']
+words = ['are', 'help', 'plant', 'pink', 'frog',
+         'crib', 'drop', 'brag', 'fret', 'grab', 'trip',
+         'leg', 'lab', 'lot', 'lip', 'last', 'left']
 
 word_chains = []
 word_chain_1 = ['mad', 'sad', 'tad', 'pad']
